@@ -45,77 +45,77 @@ Key idea: Tasks are automated; jobs are redesigned.
 
 ---
 
-3) Who’s at risk, who benefits?
+## 3) Who’s at risk, who benefits?
 
-Higher exposure (declining demand without reskilling):  
+**Higher exposure (declining demand without reskilling)**:  
 - Routine office support & clerical roles (data entry, scheduling, basic reporting).  
 - High‑volume customer support that is largely scriptable.  
 - Repetitive content generation without domain expertise.
 
-Lower exposure / likely complemented:  
+**Lower exposure / likely complemented**:  
 - Roles with complex human interaction (healthcare, education, management).  
 - Skilled trades and on‑site physical work (until robots catch up).  
 - Jobs requiring domain knowledge + judgement + accountability (software, product, data, law—augmented rather than replaced).
 
-Early career boost: The contact‑center study and lab experiments show AI can encode and spread best practices, letting juniors perform closer to seniors sooner. That raises productivity—and sometimes wage pressure—but may also compress career ladders unless organizations redesign roles.
+**Early career boost**: The contact‑center study and lab experiments show AI can **encode and spread best practices**, letting juniors perform closer to seniors sooner. That raises **productivity**—and sometimes **wage pressure**—but may also **compress career ladders** unless organizations redesign roles.
 
 ---
 
-4) What actually changes inside a job?
+## 4) What actually changes inside a job?
 
-1. Time allocation shifts: less rough‑drafting, more reviewing, prompting, verifying.  
-2. Quality bars rise: if AI drafts “good enough”, human value moves to problem framing, data/context curation, taste, and verification.  
-3. Skills portfolio updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
-4. Metrics change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
+1. **Time allocation** shifts: less rough‑drafting, more reviewing, prompting, verifying.  
+2. **Quality bars** rise: if AI drafts “good enough”, human value moves to **problem** **framing**, **data/context curation**, **taste**, and **verification**.  
+3. **Skills portfolio** updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
+4. **Metrics** change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
 
-Design principle for teams: Automate the boring, amplify the human.
+> D**esign principle for teams**: _Automate the boring, amplify the human_.
 
 ---
 
-5) What should you (a first‑year IT student) do?
+## 5) What should you (a first‑year IT student) do?
 
-- Master the basics of data + automation: get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
-- Practice “prompt → verify → ship”: use AI to draft, but always check sources, test outputs, and document assumptions.  
-- Build a visible portfolio: small public repos showing before/after with and without AI (README demos, notebooks).  
-- Invest in durable skills: systems thinking, communication, security mindset, and domain context.  
-- Work in pairs/teams: peer review catches model errors and improves your prompts and specs.  
+- **Master the basics of data + automation**: get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
+- **Practice “prompt → verify → ship”**: use AI to draft, but always check sources, test outputs, and document assumptions.  
+- **Build a visible portfolio**: small public repos showing before/after with and without AI (README demos, notebooks).  
+- **Invest in durable skills**: systems thinking, communication, security mindset, and domain context.  
+- **Work in pairs/teams**: peer review catches model errors and improves your prompts and specs.  
 
 A simple checklist for any AI‑assisted task:
 
 - [ ] Define the task and acceptance criteria.  
-- [ ] Draft with AI and log prompts.  
-- [ ] Verify: test, cite sources, run sanity checks.  
-- [ ] Document what the tool did vs. what you did.  
+- [ ] Draft with AI and **log prompts**.  
+- [ ] **Verify**: test, cite sources, run sanity checks.  
+- [ ] Document what the tool did vs. what **you** did.  
 - [ ] Commit in small steps with clear messages.  
 
 ---
 
-6) Policy and management levers (why this matters for outcomes)
+## 6) Policy and management levers (why this matters for outcomes)
 
-- Reskilling at scale (short, modular programs) to help workers cross into rising occupations.  
-- Job redesign: let humans own goals and judgement, while AI handles defined sub‑tasks.  
-- Guardrails: data protection, bias testing, provenance/watermarking, and incident response.  
-- Safety nets: transition support where displacement is concentrated.  
+- **Reskilling at scale** (short, modular programs) to help workers cross into rising occupations.  
+- **Job redesign**: let humans own goals and judgement, while AI handles defined sub‑tasks.  
+- **Guardrails**: data protection, bias testing, provenance/watermarking, and incident response.  
+- **Safety nets**: transition support where displacement is concentrated.  
 
-Reality check: AI’s net effects depend on choices—of firms (deployment), governments (policy), and individuals (skills).
-
----
-
-7) So… will AI take our jobs?
-
-AI will take parts of many jobs and create parts of new jobs. Some roles will shrink; others will grow; almost all will change. If you learn to use the tools, validate their output, and ship work that combines AI scale with human judgement, you’re positioning yourself on the opportunity side of that change.
+> Reality check: AI’s _net_ effects depend on **choices**—of firms (deployment), governments (policy), and individuals (skills).
 
 ---
 
-References & further reading
+## 7) So… will AI take our jobs?
 
-- WEF – Future of Jobs Report 2025 (summary & figures; jobs created/displaced, skills): https://www.weforum.org/stories/2025/01/future-of-jobs-report-2025-jobs-of-the-future-and-the-skills-you-need-to-get-them/  
-- IMF (Kristalina Georgieva) – “AI Will Transform the Global Economy” (40% of jobs exposed; policy framing): https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity  
-- ILO Working Paper (2023) – Generative AI and Jobs (augmentation vs automation; clerical exposure): https://webapps.ilo.org/static/english/intserv/working-papers/wp096/index.html  
-- OECD Employment Outlook 2023 – AI & Labour Market (early evidence on job quality, lagged quantity effects): https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report.html  
-- McKinsey Global Institute (2024) – A New Future of Work (27–30% of hours automated; transitions): https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond  
-- NBER Working Paper (2023) – Generative AI at Work (contact‑center field study; +14% productivity): https://www.nber.org/system/files/working_papers/w31161/w31161.pdf  
-- MIT Working Paper (2023) – Experimental Evidence on the Productivity Effects of Generative AI (writing tasks; −37% time, +0.4 SD quality): https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf
+AI will **take parts of many jobs** and c**reate parts of new jobs**. Some roles will shrink; others will grow; almost all will **change**. If you learn to **use** the tools, **validate** their output, and **ship** work that combines AI scale with human judgement, you’re positioning yourself on the opportunity side of that change.
+
+---
+
+**References & further reading**
+
+- **WEF – Future of Jobs Report 2025** (summary & figures; jobs created/displaced, skills): https://www.weforum.org/stories/2025/01/future-of-jobs-report-2025-jobs-of-the-future-and-the-skills-you-need-to-get-them/  
+- **IMF (Kristalina Georgieva) – “AI Will Transform the Global Economy”** (40% of jobs exposed; policy framing): https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity  
+- **ILO Working Paper (2023) – Generative AI and Jobs** (augmentation vs automation; clerical exposure): https://webapps.ilo.org/static/english/intserv/working-papers/wp096/index.html  
+- **OECD Employment Outlook 2023 – AI & Labour Market** (early evidence on job quality, lagged quantity effects): https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report.html  
+- **McKinsey Global Institute (2024) – A New Future of Work** (27–30% of hours automated; transitions): https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond  
+- **NBER Working Paper (2023) – Generative AI at Work** (contact‑center field study; +14% productivity): https://www.nber.org/system/files/working_papers/w31161/w31161.pdf  
+- **MIT Working Paper (2023) – Experimental Evidence on the Productivity Effects of Generative AI** (writing tasks; −37% time, +0.4 SD quality): https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf
 
 ---
 
