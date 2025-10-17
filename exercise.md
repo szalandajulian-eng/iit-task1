@@ -117,6 +117,7 @@ AI will **take parts of many jobs** and c**reate parts of new jobs**. Some roles
 - **NBER Working Paper (2023) – Generative AI at Work** (contact‑center field study; +14% productivity): https://www.nber.org/system/files/working_papers/w31161/w31161.pdf  
 - **MIT Working Paper (2023) – Experimental Evidence on the Productivity Effects of Generative AI** (writing tasks; −37% time, +0.4 SD quality): https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf
 
+
 ---
 
 #Endnotes (inline citations)
